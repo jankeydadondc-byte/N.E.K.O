@@ -40,7 +40,7 @@ attrs==25.3.0
     #   referencing
 audiolab==0.4.5
     # via pyrnnoise
-authlib==1.6.8
+authlib==1.9.1
     # via browser-use
 av==16.0.1
     # via audiolab
