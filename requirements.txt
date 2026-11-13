@@ -1089,7 +1089,7 @@ pyparsing==3.2.5
     # via
     #   httplib2
     #   matplotlib
-pypdf==6.7.0
+pypdf==6.21.4
     # via browser-use
 pyperclip==1.9.0
     # via mouseinfo
