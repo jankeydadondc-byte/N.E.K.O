@@ -268,7 +268,7 @@ numpy==1.26.4
     #   pyrnnoise
     #   soundfile
     #   soxr
-oauthlib==3.3.1
+oauthlib==4.0.1
     # via requests-oauthlib
 ollama==0.6.1
     # via browser-use
