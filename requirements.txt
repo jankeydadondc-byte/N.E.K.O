@@ -285,7 +285,7 @@ packaging==25.0
     #   pytest
 pfzy==0.3.4
     # via inquirerpy
-pillow==11.3.0
+pillow==13.0.0
     # via
     #   bilibili-api-python
     #   browser-use
