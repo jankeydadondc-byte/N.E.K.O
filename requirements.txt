@@ -247,7 +247,7 @@ markupsafe==3.0.2
     # via jinja2
 matplotlib==3.10.7
     # via pyrnnoise
-mcp==1.26.0
+mcp==1.30.0
     # via browser-use
 mdurl==0.1.2
     # via markdown-it-py
