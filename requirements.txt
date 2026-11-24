@@ -19,7 +19,7 @@ anthropic==0.75.0
     # via
     #   browser-use
     #   n-e-k-o
-anyio==4.10.0
+anyio==4.14.2
     # via
     #   anthropic
     #   browser-use
