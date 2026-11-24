@@ -324,7 +324,7 @@ psutil==7.2.2
     #   n-e-k-o
 py-mini-racer==0.6.0
     # via neteasecloudmusic
-pyasn1==0.6.1
+pyasn1==0.6.5
     # via
     #   pyasn1-modules
     #   rsa
